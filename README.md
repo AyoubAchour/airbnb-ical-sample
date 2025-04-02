@@ -40,7 +40,7 @@ async function fetchCalendar() {
 The calendar sample includes:
 
 - Properly formatted Airbnb iCal headers
-- Multiple bookings across different months of 2024-2025
+- Multiple bookings across different months of 2025-2026
 - All standard Airbnb data fields:
   - Check-in and check-out dates
   - Number of nights
